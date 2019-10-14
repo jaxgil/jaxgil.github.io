@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jax Gil</title>
+    <link>https://jaxgil.github.io/</link>
+    <description>Recent content on Jax Gil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2019 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://jaxgil.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1234 Tacos</title>
+      <link>https://jaxgil.github.io/blog/cuatro-tacos/</link>
+      <pubDate>Sun, 13 Oct 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://jaxgil.github.io/blog/cuatro-tacos/</guid>
+      <description>https://www.youtube.com/watch?v=cuI0u1Xvh2Q</description>
+    </item>
+    
+    <item>
+      <title>La Vaina</title>
+      <link>https://jaxgil.github.io/blog/third-post/</link>
+      <pubDate>Sun, 13 Oct 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://jaxgil.github.io/blog/third-post/</guid>
+      <description> Third post, testing Yeah!!! </description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Exciting Me</title>
+      <link>https://jaxgil.github.io/blog/first-post/</link>
+      <pubDate>Sun, 13 Oct 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://jaxgil.github.io/blog/first-post/</guid>
+      <description>I am so excited to have&amp;hellip; a website, made by my wonderful partner Alexander S.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Exciting Me</title>
+      <link>https://jaxgil.github.io/blog/second-post/</link>
+      <pubDate>Sun, 13 Oct 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://jaxgil.github.io/blog/second-post/</guid>
+      <description>Wow. So yeah, wea website, made by my wonderful partner Alexander S.</description>
+    </item>
+    
+    <item>
+      <title>Untitled</title>
+      <link>https://jaxgil.github.io/blog/template/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaxgil.github.io/blog/template/</guid>
+      <description>Jax gil is awesome!!! Jax gil is so beautiful and amazing, i love her because they are supportive and smart</description>
+    </item>
+    
+  </channel>
+</rss>
